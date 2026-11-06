@@ -1,0 +1,114 @@
+# ASR LABS — AI, science & emerging technology education
+# Platforms: YouTube (to create) + Instagram (@asrlabs.co — live)
+
+id: asr-labs
+display_name: ASR LABS
+tagline: Ideas that shape tomorrow.
+mission: >
+  Make complex technology understandable through research-led storytelling.
+  Connect AI, science, emerging tech and human stories — with a distinctive
+  focus on women innovators.
+audience: Global English-speaking learners curious about AI and the future
+language: en
+category: Science, technology and engineering
+status: active
+
+brand:
+  colours:
+    midnight_ink: "#10101B"
+    deep_violet: "#6D4AFF"
+    electric_lavender: "#9B7BFF"
+    signal_blue: "#4C8DFF"
+    soft_gold: "#D7B56D"
+    cloud_white: "#F7F6FB"
+  visual_language: >
+    Clean editorial typography, strong contrast, precise grids, thin technical
+    lines, subtle orbital/circuit motifs, generous whitespace, restrained gradients.
+    Avoid cluttered sci-fi clichés, excessive glow, random stock imagery and
+    unreadable text overlays.
+  voice: >
+    Clear, curious, precise. Explain without dumbing down. Distinguish facts from
+    uncertainty. Never invent statistics, quotes or citations.
+  reference_assets:
+    - docs/brand/asr-labs-instagram-reference.jpg
+
+pillars:
+  - id: women-who-built-the-future
+    name: Women Who Built the Future
+    mix_percent: 25
+    description: Profiles of women scientists, engineers, inventors and technology founders.
+  - id: ai-decoded
+    name: AI Decoded
+    mix_percent: 25
+    description: Explainers on LLMs, agents, ML, generative AI and practical use.
+  - id: beyond-tomorrow
+    name: Beyond Tomorrow
+    mix_percent: 20
+    description: Robotics, quantum, space, chips, materials and emerging research.
+  - id: ai-for-humanity
+    name: AI for Humanity
+    mix_percent: 20
+    description: Real-world applications in health, education, climate, accessibility, agriculture.
+  - id: founder-journal
+    name: The Founder Journal
+    mix_percent: 10
+    description: Behind-the-scenes building ASR LABS, lessons and transparent progress.
+
+formats:
+  - id: explainer-60
+    name: The 60-second explainer
+    beats: [hook, question, explanation, example, takeaway]
+  - id: innovator-profile
+    name: Human story / innovator profile
+    beats: [claim, person, problem, contribution, why_it_matters]
+  - id: myth-vs-fact
+    name: Myth vs fact
+    beats: [misconception, evidence, nuance, question]
+  - id: tech-in-real-life
+    name: Technology in real life
+    beats: [problem, technology, how_it_works, benefits_limits, impact]
+  - id: research-brief
+    name: Research / breakthrough brief
+    beats: [what, who, finding, unknowns, why_care]
+  - id: tool-demo
+    name: Tool / workflow demo
+    beats: [outcome, steps, use_case, caveats]
+
+video:
+  canvas: "9:16"
+  resolution: "1080x1920"
+  caption_style: burned-in, high contrast, platform-UI safe
+  rhythm_seconds: "2-4"
+  beat_sheet:
+    - { range: "0-3s", beat: hook }
+    - { range: "3-10s", beat: context }
+    - { range: "10-35s", beat: core }
+    - { range: "35-50s", beat: meaning }
+    - { range: "final-5s", beat: takeaway_cta }
+
+publishing:
+  cadence:
+    videos_per_day: 2
+    timezone: Asia/Kolkata
+    slots:
+      - { time: "08:00", job: "Discovery & learning", length_sec: "30-60" }
+      - { time: "20:00", job: "Story & depth", length_sec: "45-75" }
+  platforms:
+    youtube:
+      status: to_create
+      handle: null  # set after channel creation
+      formats: [shorts, long_form_later]
+    instagram:
+      status: live
+      handle: asrlabs.co
+      display_name: "ASR LABS | AI & Innovation"
+      formats: [reels, feed]
+      bio: |
+        Exploring the future of intelligence.
+        AI | Science | Emerging Technology
+        Discover. Leverage. Innovate.
+
+safeguards:
+  human_approval_required: true
+  ai_image_labeling_required: true
+  no_unverified_claims: true

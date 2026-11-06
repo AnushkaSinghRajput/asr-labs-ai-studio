@@ -1,0 +1,1022 @@
+{
+  "channel_id": "asr-labs",
+  "timezone": "Asia/Kolkata",
+  "generated_at": "2026-11-06T18:56:39.866176Z",
+  "days": [
+    {
+      "date": "2026-11-07",
+      "weekday": "Saturday",
+      "morning": {
+        "id": "asr-2026-11-07-0800-797f63",
+        "channel_id": "asr-labs",
+        "title": "What is an AI agent — in 45 seconds",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-07",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "An AI chatbot answers. An AI agent acts.",
+        "script": "HOOK: An AI chatbot answers. An AI agent acts.\nCONTEXT: Most people mix these up.\nCORE: A chatbot predicts the next words. An agent can plan steps, use tools, check results, and keep going until a goal is done — like booking, researching, or updating a file.\nMEANING: Agents need clear goals, guardrails, and human approval for risky actions.\nCTA: Follow ASR LABS — we decode AI without the hype.",
+        "caption_instagram": "Chatbot ≠ Agent.\n\nOne replies. The other can take steps toward a goal — with tools and checks.\n\nWould you trust an agent with your calendar yet? Comment yes/no.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What is an AI agent? Clear difference from a chatbot — ASR LABS.\n\nSources: general ML systems design; agent = LLM + tools + loop + goals.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Midnight ink background. Simple diagram: Chat bubble vs loop with tools icons. Deep violet accents. Burned-in captions. Soft gold on key words.",
+        "sources_notes": "Conceptual explainer — no unverifiable stats. Keep definitions conservative.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 45,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865454",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-07-2000-ae4a3b",
+        "channel_id": "asr-labs",
+        "title": "Zhenan Bao — the scientist teaching skin to sense",
+        "pillar": "women-who-built-the-future",
+        "format": "innovator-profile",
+        "slot": "20:00",
+        "publish_date": "2026-11-07",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "What if a robot hand could feel as gently as human skin?",
+        "script": "HOOK: What if a robot hand could feel as gently as human skin?\nPERSON: Meet Zhenan Bao — Stanford chemical engineer working on electronic skin.\nPROBLEM: Machines are strong, but touch and soft sensing are hard.\nCONTRIBUTION: Her lab builds flexible, skin-like sensors for pressure, temperature and more — toward better prosthetics and human-robot interaction.\nWHY IT MATTERS: The future of AI isn't only in the cloud — it's also in materials that sense the world.\nCTA: Women Who Built the Future — every week on ASR LABS.",
+        "caption_instagram": "Zhenan Bao · Stanford\n\nBuilding electronic skin so machines can sense more like we do.\n\nAI needs better bodies — not just bigger models.\n\nWho should we profile next?\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Zhenan Bao — Stanford scientist working on electronic skin and soft sensing. Part of ASR LABS: Women Who Built the Future.\n\nVerify latest lab work via Stanford profiles / peer-reviewed papers before final cut.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Lab / material close-ups (licensed or clearly illustrative + AI-labelled). Name card: ZHENAN BAO — STANFORD. Editorial typography. No fake documentary stills.",
+        "sources_notes": "Confirm bio details from Stanford ChemE / Bao Group site and recent papers. Label illustrative AI imagery.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 60,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865803",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-08",
+      "weekday": "Sunday",
+      "morning": {
+        "id": "asr-2026-11-08-0800-61a707",
+        "channel_id": "asr-labs",
+        "title": "Tokens: why AI 'reads' in chunks",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-08",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "AI doesn't read letters. It reads tokens.",
+        "script": "HOOK: AI doesn't read letters. It reads tokens.\nCONTEXT: That's why long prompts cost more and hit limits.\nCORE: Text is split into tokens — pieces of words. Models predict the next token. Rough rule of thumb: English ≈ a few characters per token, but it varies by language and model.\nMEANING: Shorter clear prompts often work better than long vague ones.\nCTA: ASR LABS — practical AI, no fluff.",
+        "caption_instagram": "Tokens = the units AI thinks in.\n\nThat's why length limits and pricing talk about tokens, not pages.\n\nSave for your next prompt.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What are tokens in AI? Quick explainer — ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Animated text splitting into token chips. Signal blue highlights. Clean grid.",
+        "sources_notes": "Avoid exact token prices — they change. Keep conceptual.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865830",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-08-2000-db9ce3",
+        "channel_id": "asr-labs",
+        "title": "Ada Lovelace — the first programmer wasn't waiting for computers",
+        "pillar": "women-who-built-the-future",
+        "format": "innovator-profile",
+        "slot": "20:00",
+        "publish_date": "2026-11-08",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "In the 1840s, she saw a machine that could create — not just calculate.",
+        "script": "HOOK: In the 1840s, she saw a machine that could create — not just calculate.\nPERSON: Ada Lovelace wrote notes on Babbage's Analytical Engine.\nCONTRIBUTION: She described how the engine could manipulate symbols — an early vision of general computing, not only arithmetic.\nWHY IT MATTERS: Programming started as imagination about what machines could mean.\nCTA: History that built today's AI — ASR LABS.",
+        "caption_instagram": "Ada Lovelace · 1800s\n\nShe imagined computing beyond numbers — toward creation.\n\nThe first programmer energy was visionary.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Ada Lovelace and the Analytical Engine — why she's called the first computer programmer. ASR LABS.\n\nPrimary context: Lovelace's Notes on the Analytical Engine (historical).\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Historical document aesthetic with number/year motif (e.g. 1843 era cues). Soft gold editorial emphasis. Label period art as historical/illustrative.",
+        "sources_notes": "Use established historical consensus; avoid myth inflation.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 55,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865852",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-09",
+      "weekday": "Monday",
+      "morning": {
+        "id": "asr-2026-11-09-0800-c34158",
+        "channel_id": "asr-labs",
+        "title": "Myth: AI understands you like a person",
+        "pillar": "ai-decoded",
+        "format": "myth-vs-fact",
+        "slot": "08:00",
+        "publish_date": "2026-11-09",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Myth: ChatGPT understands you. Fact: it predicts patterns.",
+        "script": "HOOK: Myth — AI understands you like a friend.\nFACT: Large language models predict likely next tokens from patterns in data.\nNUANCE: That can look like understanding — and still fail on truth, time, and your private context.\nQUESTION: Where do you still want a human in the loop?\nCTA: Myth vs Fact — ASR LABS.",
+        "caption_instagram": "Myth vs Fact\n\nAI can sound wise and still be guessing the next words.\n\nUse it. Don't worship it.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Myth: AI understands you. Fact: pattern prediction. ASR LABS Myth vs Fact.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Split screen MYTH / FACT. Deep violet vs cloud white panels. High-contrast captions.",
+        "sources_notes": "Align with public ML literacy (no invented 'understanding scores').",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865869",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-09-2000-6a5304",
+        "channel_id": "asr-labs",
+        "title": "AI in hospitals: help with eyes, not replace doctors",
+        "pillar": "ai-for-humanity",
+        "format": "tech-in-real-life",
+        "slot": "20:00",
+        "publish_date": "2026-11-09",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "The best medical AI doesn't replace judgment — it sharpens it.",
+        "script": "HOOK: The best medical AI doesn't replace judgment — it sharpens it.\nPROBLEM: Radiologists face huge image volumes; misses cost lives.\nTECH: Computer vision models flag possible findings for human review.\nLIMITS: Bias, rare cases, and liability mean clinicians stay accountable.\nIMPACT: Faster triage + second look — when deployed carefully.\nCTA: AI for Humanity — ASR LABS.",
+        "caption_instagram": "AI for Humanity\n\nIn imaging, AI is often a second set of eyes — not the final word.\n\nWould you want AI review on your scan? Why / why not?\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "How AI assists medical imaging — benefits and limits. ASR LABS.\n\nKeep claims general; cite a specific peer-reviewed deployment only after research pass.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Clean diagram: scan → model flag → clinician. Signal blue data cues. No fake patient photos.",
+        "sources_notes": "Research pass required before naming a hospital or study.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 55,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865890",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-10",
+      "weekday": "Tuesday",
+      "morning": {
+        "id": "asr-2026-11-10-0800-e5d1b2",
+        "channel_id": "asr-labs",
+        "title": "One prompt trick: ask for the audience",
+        "pillar": "ai-decoded",
+        "format": "tool-demo",
+        "slot": "08:00",
+        "publish_date": "2026-11-10",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Stop prompting for 'a good explanation.' Prompt for who it's for.",
+        "script": "HOOK: Stop asking for 'a good explanation.' Name the audience.\nSTEPS: 1) Role: 'Explain like I'm a curious 16-year-old.' 2) Goal: 'one analogy + one example.' 3) Constraint: 'no jargon without a definition.'\nOUTCOME: Clearer answers in one shot.\nCAVEAT: Still verify facts.\nCTA: Practical workflows — ASR LABS.",
+        "caption_instagram": "Prompt tip\n\nAudience + goal + constraint beats 'write something good.'\n\nTry it today.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Better AI prompts: specify audience, goal, constraints. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "UI mock of prompt box filling in 3 fields. Electric lavender highlights.",
+        "sources_notes": "Workflow tip — no product endorsement required.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 35,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865902",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-10-2000-4ae955",
+        "channel_id": "asr-labs",
+        "title": "Quantum computing: not a faster laptop",
+        "pillar": "beyond-tomorrow",
+        "format": "explainer-60",
+        "slot": "20:00",
+        "publish_date": "2026-11-10",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Quantum computers won't replace your Mac. They attack different problems.",
+        "script": "HOOK: Quantum computers won't replace your Mac.\nCONTEXT: Classical bits are 0 or 1. Qubits can be in superposition — useful for specific maths like certain chemistry and optimisation problems.\nCORE: They're fragile, error-prone, and still early for most business apps.\nMEANING: Hype says 'soon everything.' Reality says 'narrow breakthroughs first.'\nCTA: Beyond Tomorrow — ASR LABS.",
+        "caption_instagram": "Beyond Tomorrow\n\nQuantum ≠ faster laptop.\nIt's a different kind of machine for hard scientific problems.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Quantum computing explained simply — what it is and isn't. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Orbital/circuit motif restrained. Qubit vs bit comparison graphic.",
+        "sources_notes": "Keep non-sensational; no fake timeline promises.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 50,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865918",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-11",
+      "weekday": "Wednesday",
+      "morning": {
+        "id": "asr-2026-11-11-0800-73ad8a",
+        "channel_id": "asr-labs",
+        "title": "Hallucinations: why models invent facts",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-11",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "AI can sound 100% sure — and still be wrong.",
+        "script": "HOOK: AI can sound certain and still invent a citation.\nWHY: Models optimise for plausible language, not a live truth database.\nFIX: Ask for sources, check primary docs, use tools that retrieve real pages.\nRULE: If a claim matters, verify before you share.\nCTA: Research-led AI literacy — ASR LABS.",
+        "caption_instagram": "If it matters, verify.\n\nFluent ≠ true.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Why AI hallucinates — and how to reduce risk. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Confident caption overlay then red 'CHECK SOURCE' stamp. Soft gold for rule line.",
+        "sources_notes": "Standard LLM limitation literacy.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865929",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-11-2000-7c048f",
+        "channel_id": "asr-labs",
+        "title": "Fei-Fei Li — teaching machines to see",
+        "pillar": "women-who-built-the-future",
+        "format": "innovator-profile",
+        "slot": "20:00",
+        "publish_date": "2026-11-11",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Modern computer vision stands on a dataset she helped champion: ImageNet.",
+        "script": "HOOK: Modern computer vision stands on ImageNet — and Fei-Fei Li helped drive that vision.\nCONTEXT: To learn recognition, models needed massive labelled images.\nCONTRIBUTION: ImageNet fuelled breakthroughs in deep learning for vision.\nWHY IT MATTERS: Seeing systems power medicine, cars, accessibility — and need ethical care.\nCTA: Women Who Built the Future — ASR LABS.",
+        "caption_instagram": "Fei-Fei Li\n\nHelped push ImageNet — a foundation for how machines learn to see.\n\nVision AI started with ambitious data + science.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Fei-Fei Li and ImageNet — why computer vision leapt forward. ASR LABS.\n\nConfirm details via Stanford / HAI materials in research pass.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Grid of abstract image tiles → model label. Name plate. Editorial, not celebrity tabloid.",
+        "sources_notes": "Research pass for exact roles/years before publish.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 55,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865946",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-12",
+      "weekday": "Thursday",
+      "morning": {
+        "id": "asr-2026-11-12-0800-a528fc",
+        "channel_id": "asr-labs",
+        "title": "RAG in plain English",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-12",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Want fewer made-up answers? Give the model documents to look at.",
+        "script": "HOOK: Want fewer made-up answers? Retrieve first, then generate.\nCORE: RAG = Retrieval-Augmented Generation. Find relevant docs → stuff them into context → answer with citations.\nEXAMPLE: Company policy bot that searches your handbook before replying.\nLIMIT: Bad retrieval still yields bad answers.\nCTA: AI Decoded — ASR LABS.",
+        "caption_instagram": "RAG = search, then answer.\n\nNot magic. Better plumbing.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "RAG explained in plain English. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "3-step pipeline graphic: Docs → Retrieve → Generate. Signal blue arrows.",
+        "sources_notes": "Conceptual; no vendor lock-in.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 45,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865957",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-12-2000-c4dcfb",
+        "channel_id": "asr-labs",
+        "title": "Climate models meet machine learning",
+        "pillar": "ai-for-humanity",
+        "format": "research-brief",
+        "slot": "20:00",
+        "publish_date": "2026-11-12",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "AI isn't only chatbots — it's helping scientists read the planet faster.",
+        "script": "HOOK: AI isn't only chatbots — it's helping scientists read the planet faster.\nWHAT: ML assists with satellite imagery, extreme-event patterns, and speeding parts of simulation workflows.\nUNKNOWN: Climate systems are complex; models need careful validation.\nWHY CARE: Better forecasts and monitoring can guide adaptation — if we stay rigorous.\nCTA: AI for Humanity — ASR LABS.",
+        "caption_instagram": "AI for the planet\n\nFrom satellites to simulations — ML is a tool for climate science, not a silver bullet.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "How machine learning supports climate and Earth observation — carefully. ASR LABS.\n\nAttach 1–2 primary papers/org links after research pass.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Earth / grid data aesthetic restrained. No disaster porn. Soft gold for 'validate' line.",
+        "sources_notes": "Must attach real sources before APPROVED.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 55,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865972",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-13",
+      "weekday": "Friday",
+      "morning": {
+        "id": "asr-2026-11-13-0800-13ad44",
+        "channel_id": "asr-labs",
+        "title": "Temperature in AI: creativity dial",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-13",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Same model. Different 'temperature.' Totally different vibe.",
+        "script": "HOOK: Same model. Twist the temperature. Different vibe.\nCORE: Lower temperature → more focused, repetitive-safe answers. Higher → more varied, riskier wording.\nUSE: Drafts & brainstorming higher; facts & code often lower.\nCTA: Tiny settings, big difference — ASR LABS.",
+        "caption_instagram": "Temperature = creativity dial.\n\nFacts? Turn it down. Brainstorm? Turn it up.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What is temperature in AI models? ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Dial UI animation. Deep violet knob. Captions burned in.",
+        "sources_notes": "Provider UIs differ; keep conceptual.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 35,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.865985",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-13-2000-a67a3e",
+        "channel_id": "asr-labs",
+        "title": "Founder Journal: why ASR LABS publishes twice a day",
+        "pillar": "founder-journal",
+        "format": "quiet-story",
+        "slot": "20:00",
+        "publish_date": "2026-11-13",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Consistency builds trust. Research earns it.",
+        "script": "HOOK: Consistency builds habit. Research earns trust.\nSTORY: ASR LABS is building an operating system for educational media — two original shorts a day, with human approval before anything goes public.\nLESSON: Cadence without quality is noise. Quality without cadence is a hobby.\nCTA: Follow the build in public — ASR LABS.",
+        "caption_instagram": "Founder Journal\n\nTwo useful videos a day — not two videos to fill a schedule.\n\nWe're building the machine that makes that possible.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Why ASR LABS publishes at 08:00 and 20:00 IST — Founder Journal.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Branded founder desk / soft nebula background matching IG. Logo end card. Honest, not corporate stock.",
+        "sources_notes": "First-party brand story — no external claims needed.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 45,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866000",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-14",
+      "weekday": "Saturday",
+      "morning": {
+        "id": "asr-2026-11-14-0800-7c13a8",
+        "channel_id": "asr-labs",
+        "title": "Open source vs closed AI models",
+        "pillar": "ai-decoded",
+        "format": "myth-vs-fact",
+        "slot": "08:00",
+        "publish_date": "2026-11-14",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Open weights aren't the same as open everything.",
+        "script": "HOOK: 'Open source AI' is a spectrum.\nFACT: Some projects release weights you can run locally. Data, training code, and licenses still vary.\nTRADEOFF: Open → more control & audit potential. Closed APIs → often stronger hosted performance & safety tooling.\nCTA: Choose based on your risk and use case — ASR LABS.",
+        "caption_instagram": "Open weights ≠ automatically safe or free forever.\n\nRead the license. Know your risk.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Open vs closed AI models — a clear spectrum. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Spectrum bar graphic. Avoid dunking on vendors by name.",
+        "sources_notes": "Keep vendor-neutral.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 45,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866011",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-14-2000-cbd2c5",
+        "channel_id": "asr-labs",
+        "title": "Chips: why GPUs unlocked modern AI",
+        "pillar": "beyond-tomorrow",
+        "format": "explainer-60",
+        "slot": "20:00",
+        "publish_date": "2026-11-14",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "AI didn't suddenly get smart. Hardware caught up to the maths.",
+        "script": "HOOK: AI didn't suddenly get smart. Hardware caught up.\nCORE: Training neural nets is massive matrix math. GPUs do that in parallel.\nMEANING: Progress is model design + data + compute — not magic.\nCTA: Beyond Tomorrow — ASR LABS.",
+        "caption_instagram": "GPUs made deep learning practical at scale.\n\nSoftware + silicon together.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Why GPUs matter for AI — short explainer. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Simple parallel cores animation. Technical lines, no product placement.",
+        "sources_notes": "High-level hardware literacy.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866024",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-15",
+      "weekday": "Sunday",
+      "morning": {
+        "id": "asr-2026-11-15-0800-350da3",
+        "channel_id": "asr-labs",
+        "title": "Accessibility: AI that reads the world aloud",
+        "pillar": "ai-for-humanity",
+        "format": "tech-in-real-life",
+        "slot": "08:00",
+        "publish_date": "2026-11-15",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "The most important AI feature might be the one that describes a street for someone who can't see it.",
+        "script": "HOOK: AI that describes the world can expand independence.\nTECH: On-device and cloud vision models power scene description and text reading.\nLIMITS: Errors can mislead — design for confirmation and humility.\nIMPACT: Accessibility is innovation, not a niche.\nCTA: AI for Humanity — ASR LABS.",
+        "caption_instagram": "AI for accessibility\n\nDescribe. Read. Navigate — with humans in the loop.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "How AI supports accessibility — benefits and limits. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Inclusive, calm visuals. No pity framing. High-contrast captions.",
+        "sources_notes": "Prefer citing established a11y AI features after research pass.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 50,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866035",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-15-2000-cc8d22",
+        "channel_id": "asr-labs",
+        "title": "Grace Hopper — the compiler that spoke human",
+        "pillar": "women-who-built-the-future",
+        "format": "innovator-profile",
+        "slot": "20:00",
+        "publish_date": "2026-11-15",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "She believed humans shouldn't speak machine code forever.",
+        "script": "HOOK: She believed humans shouldn't speak machine code forever.\nPERSON: Grace Hopper pioneered compilers — translating human-readable instructions into machine code.\nWHY IT MATTERS: Modern software — and the AI stacks on top — sit on that idea: make machines meet people halfway.\nCTA: Women Who Built the Future — ASR LABS.",
+        "caption_instagram": "Grace Hopper\n\nCompilers made programming human.\n\nWe still build on her idea.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Grace Hopper and the compiler revolution — ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Retro computing motifs + modern editorial overlay. Soft gold name plate.",
+        "sources_notes": "Historical consensus; avoid apocryphal quotes unless sourced.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 50,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866050",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-16",
+      "weekday": "Monday",
+      "morning": {
+        "id": "asr-2026-11-16-0800-b90465",
+        "channel_id": "asr-labs",
+        "title": "Embeddings: how AI finds 'similar meaning'",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-16",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Search used to match words. Now it can match meaning.",
+        "script": "HOOK: Search used to match words. Now it can match meaning.\nCORE: Embeddings turn text into vectors — lists of numbers — so 'car' and 'automobile' land nearby.\nUSE: Semantic search, recommendations, RAG retrieval.\nCTA: AI Decoded — ASR LABS.",
+        "caption_instagram": "Embeddings = meaning as maths.\n\nThat's how semantic search works.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What are embeddings? Meaning as vectors. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "2D cluster dots for related words. Clean animation.",
+        "sources_notes": "Conceptual.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866061",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-16-2000-927201",
+        "channel_id": "asr-labs",
+        "title": "Robots in warehouses: AI that moves boxes",
+        "pillar": "beyond-tomorrow",
+        "format": "tech-in-real-life",
+        "slot": "20:00",
+        "publish_date": "2026-11-16",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "The quiet AI revolution is happening in logistics aisles.",
+        "script": "HOOK: The quiet AI revolution is in logistics aisles.\nTECH: Vision + planning help robots navigate and pick in structured spaces.\nLIMITS: Open-world homes are harder than warehouses.\nMEANING: Robotics progress is uneven — and that's okay to say out loud.\nCTA: Beyond Tomorrow — ASR LABS.",
+        "caption_instagram": "Warehouse robots ≠ home robots (yet).\n\nStructure makes autonomy easier.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Why warehouse robots advanced faster than home robots. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Abstract aisle grid + robot icon. No unverified company claims.",
+        "sources_notes": "Keep general unless citing a specific public system.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 45,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866074",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-17",
+      "weekday": "Tuesday",
+      "morning": {
+        "id": "asr-2026-11-17-0800-a954fe",
+        "channel_id": "asr-labs",
+        "title": "System prompts: the invisible instructions",
+        "pillar": "ai-decoded",
+        "format": "tool-demo",
+        "slot": "08:00",
+        "publish_date": "2026-11-17",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "The most powerful prompt is often the one you never see.",
+        "script": "HOOK: The most powerful prompt is often invisible: the system prompt.\nCORE: Apps wrap your message with rules — tone, safety, tools, format.\nTIP: When building products, put durable rules in the system layer; keep user prompts for the task.\nCTA: Practical AI — ASR LABS.",
+        "caption_instagram": "System prompt = the app's rulebook.\n\nUser prompt = today's task.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What is a system prompt? ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Layers graphic: System / Developer / User. Midnight ink.",
+        "sources_notes": "Product-building literacy.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866084",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-17-2000-91d5a8",
+        "channel_id": "asr-labs",
+        "title": "AI tutors: promise, proof, and pitfalls",
+        "pillar": "ai-for-humanity",
+        "format": "research-brief",
+        "slot": "20:00",
+        "publish_date": "2026-11-17",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "A tutor that never sleeps sounds perfect — until it teaches a wrong step confidently.",
+        "script": "HOOK: An always-on tutor sounds perfect — until it teaches a wrong step confidently.\nPROMISE: Personalised practice at scale.\nPROOF NEEDED: Learning gains must be measured, not assumed.\nPITFALLS: Hallucinations, cheating shortcuts, equity of access.\nCTA: Hold the optimism and the evidence — ASR LABS.",
+        "caption_instagram": "AI tutors\n\nPromising. Not automatically proven.\n\nDemand evidence.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "AI tutors — promise, proof, pitfalls. ASR LABS.\n\nAdd citations after research pass.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Classroom-neutral abstract. Soft gold on 'evidence' word.",
+        "sources_notes": "Attach ed-tech studies before APPROVED.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 55,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866098",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-18",
+      "weekday": "Wednesday",
+      "morning": {
+        "id": "asr-2026-11-18-0800-531f35",
+        "channel_id": "asr-labs",
+        "title": "Fine-tuning vs prompting",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-18",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Don't fine-tune what a good prompt + examples can fix.",
+        "script": "HOOK: Don't fine-tune what prompting can fix.\nPROMPTING: Fast, cheap, flexible — great for style and structure.\nFINE-TUNING: Teaches narrower behaviour from many examples — costlier, slower to change.\nRULE: Start with prompts and retrieval; fine-tune when you must.\nCTA: AI Decoded — ASR LABS.",
+        "caption_instagram": "Prompt first.\nRetrieve second.\nFine-tune when you must.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Fine-tuning vs prompting — when to use which. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Decision tree graphic. Electric lavender path for 'prompt first'.",
+        "sources_notes": "Engineering best-practice framing.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 45,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866108",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-18-2000-29e5eb",
+        "channel_id": "asr-labs",
+        "title": "Katie Bouman and the black hole image moment",
+        "pillar": "women-who-built-the-future",
+        "format": "innovator-profile",
+        "slot": "20:00",
+        "publish_date": "2026-11-18",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "A planet-sized telescope. An algorithm. A first look at a black hole's shadow.",
+        "script": "HOOK: A planet-sized telescope. Algorithms. A first look at a black hole's shadow.\nCONTEXT: The Event Horizon Telescope combined data from observatories worldwide.\nPERSON: Katie Bouman was part of the imaging effort that helped reconstruct the famous image — science is team sport; credit the collaboration.\nWHY IT MATTERS: Computation turns impossible data into human understanding.\nCTA: Women Who Built the Future — ASR LABS.",
+        "caption_instagram": "Black hole imaging was a team win.\n\nAlgorithms + astronomy + collaboration.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Katie Bouman and EHT imaging — credit the science and the team. ASR LABS.\n\nUse EHT collaboration materials; avoid single-hero myths.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Abstract ring/shadow motif (not claiming real EHT plate without rights). Soft gold collaboration line.",
+        "sources_notes": "Emphasise collaboration; verify role wording from EHT/MIT materials.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 60,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866121",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-19",
+      "weekday": "Thursday",
+      "morning": {
+        "id": "asr-2026-11-19-0800-40458b",
+        "channel_id": "asr-labs",
+        "title": "Latency vs intelligence: why 'smart' can feel slow",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-19",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "The smartest model isn't always the one you should ship.",
+        "script": "HOOK: The smartest model isn't always the one you should ship.\nCORE: Bigger models can be slower and costlier. Product UX often needs small/fast models for drafts + big models for hard steps.\nPATTERN: Route easy tasks cheaply; escalate hard ones.\nCTA: Build like an engineer — ASR LABS.",
+        "caption_instagram": "Route easy tasks to fast models.\nEscalate the hard ones.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Latency vs intelligence in AI products. ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Router diagram. Signal blue paths.",
+        "sources_notes": "Architecture literacy.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866132",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-19-2000-156886",
+        "channel_id": "asr-labs",
+        "title": "Materials that heal: self-healing tech frontier",
+        "pillar": "beyond-tomorrow",
+        "format": "research-brief",
+        "slot": "20:00",
+        "publish_date": "2026-11-19",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "What if the devices we wear could repair tiny damage — like skin?",
+        "script": "HOOK: What if devices could repair tiny damage — like skin?\nFIELD: Self-healing polymers and soft materials are an active research frontier (including work adjacent to electronic skin and wearable labs).\nUNKNOWN: Lab demos ≠ mass-market durability yet.\nWHY CARE: Longevity and sustainability need better materials, not only smarter software.\nCTA: Beyond Tomorrow — ASR LABS.",
+        "caption_instagram": "Self-healing materials\n\nEarly. Exciting. Not magic yet.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "Self-healing materials — research frontier overview. ASR LABS.\n\nCite specific papers in research pass.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Macro material texture + crack-heal animation (illustrative, labelled).",
+        "sources_notes": "Must attach papers before APPROVED.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 50,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866145",
+        "metadata": {}
+      }
+    },
+    {
+      "date": "2026-11-20",
+      "weekday": "Friday",
+      "morning": {
+        "id": "asr-2026-11-20-0800-869ca5",
+        "channel_id": "asr-labs",
+        "title": "Eval: how teams know if an AI feature works",
+        "pillar": "ai-decoded",
+        "format": "explainer-60",
+        "slot": "08:00",
+        "publish_date": "2026-11-20",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "If you can't measure it, you can't improve an AI feature.",
+        "script": "HOOK: If you can't measure it, you can't improve it.\nCORE: Evals = test sets + scoring (exact match, rubrics, human ratings, safety checks).\nPRACTICE: Ship a baseline, measure regressions, then change prompts or models.\nCTA: Build with evidence — ASR LABS.",
+        "caption_instagram": "No evals = vibes-driven AI.\n\nMeasure. Then ship.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What are AI evals? ASR LABS.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Checklist / scorecard UI. Soft gold pass marks.",
+        "sources_notes": "Engineering practice.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866155",
+        "metadata": {}
+      },
+      "evening": {
+        "id": "asr-2026-11-20-2000-ed7e4e",
+        "channel_id": "asr-labs",
+        "title": "Week ahead: what ASR LABS will teach next",
+        "pillar": "founder-journal",
+        "format": "quiet-story",
+        "slot": "20:00",
+        "publish_date": "2026-11-20",
+        "platforms": [
+          "youtube_shorts",
+          "instagram_reels"
+        ],
+        "status": "BRIEF_READY",
+        "hook": "Next week: sharper explainers, deeper innovator stories, tighter sources.",
+        "script": "HOOK: Next week we raise the bar — sharper explainers, deeper stories, tighter sources.\nPLAN: Keep 08:00 for learning. Keep 20:00 for meaning. Keep founder approval on every public cut.\nASK: Tell us what confuses you about AI — we'll make a video for it.\nCTA: Comment your topic. ASR LABS.",
+        "caption_instagram": "Founder Journal\n\nWhat should we explain next?\nDrop a topic below.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "caption_youtube": "What's next on ASR LABS — and how to request a topic.\n\n#ASRLABS #AI #Science #WomenInSTEM #EmergingTech #LearnOnReels #YouTubeShorts",
+        "hashtags": [
+          "#ASRLABS",
+          "#AI",
+          "#Science",
+          "#WomenInSTEM",
+          "#EmergingTech",
+          "#LearnOnReels",
+          "#YouTubeShorts"
+        ],
+        "visual_direction": "Calendar + brand end card. Invite comment CTA on screen.",
+        "sources_notes": "First-party.",
+        "cta": "Save this. Follow ASR LABS for ideas that shape tomorrow.",
+        "duration_sec": 40,
+        "version": 1,
+        "created_at": "2026-11-06T18:56:39.866168",
+        "metadata": {}
+      }
+    }
+  ],
+  "notes": [
+    "Post the SAME vertical cut on Instagram Reels and YouTube Shorts each slot (adapt caption per platform).",
+    "08:00 IST = discovery/learning. 20:00 IST = story/depth.",
+    "Do not publish until founder approves the exact final file + captions.",
+    "Research-pass items that name living people or papers before APPROVED.",
+    "Create YouTube channel ASAP; Instagram @asrlabs.co is already live."
+  ]
+}

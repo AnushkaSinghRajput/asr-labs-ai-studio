@@ -1,0 +1,109 @@
+# MANTHAN — Dharma, karma & self-realization education (Hindi-first)
+# Platforms: YouTube (to create) + Instagram (MANTHAN — live, early)
+
+id: manthan
+display_name: MANTHAN
+tagline: धर्म • कर्म • आत्मबोध
+mission: >
+  Educate through contemplative storytelling — life as a journey of self-recognition,
+  where love, compassion and the sense of the divine live in every heart.
+  Content should invite quiet reflection (मंथन), not performance spirituality.
+audience: Hindi-speaking and bilingual seekers interested in dharma, philosophy and inner growth
+language: hi
+languages_supported: [hi, en]
+category: Education
+status: active
+
+brand:
+  colours:
+    terracotta: "#8B3A2F"
+    deep_rust: "#6E2E24"
+    cream: "#F3E6D8"
+    warm_white: "#FFF8F0"
+    ink: "#2A1814"
+  visual_language: >
+    Warli / tribal-inspired line art on terracotta or earth grounds. Open books,
+    trees, seated seekers, soft radiating light. Calm, sacred, handmade feel.
+    Avoid neon, cyber aesthetics, cluttered collage and stock temple clichés.
+  voice: >
+    Poetic, grounded Hindi. Short contemplative lines. Prefer questions that open
+    thought over slogans. Warm, never preachy. Sanskrit/Hindi philosophical terms
+    may appear with gentle context when needed.
+  music_mood: Soft flute / contemplative Indian instrumental (rights-cleared only)
+  reference_assets:
+    - docs/brand/manthan-instagram-reference.jpg
+
+pillars:
+  - id: atma-bodh
+    name: आत्मबोध (Self-realization)
+    mix_percent: 30
+    description: Inner inquiry, awareness, and recognising the self beyond roles.
+  - id: dharma-karma
+    name: धर्म व कर्म
+    mix_percent: 25
+    description: Right action, responsibility, and living with integrity.
+  - id: prem-karuna
+    name: प्रेम व करुणा
+    mix_percent: 20
+    description: Love, compassion, and the divine felt in everyday relationships.
+  - id: shastra-soch
+    name: शास्त्र व सोच
+    mix_percent: 15
+    description: Accessible readings from Indian wisdom traditions, without dogma.
+  - id: jeevan-yatra
+    name: जीवन यात्रा
+    mix_percent: 10
+    description: Life as journey — doubt, courage, stillness and growth.
+
+formats:
+  - id: manthan-reflection
+    name: मंथन reflection card / Reel
+    beats: [question, contemplation, takeaway]
+  - id: shlok-explainer
+    name: Short wisdom explainer
+    beats: [line, meaning, living_example]
+  - id: quiet-story
+    name: Quiet human story
+    beats: [moment, feeling, insight]
+  - id: question-to-heart
+    name: प्रश्न जो हृदय तक जाए
+    beats: [question, pause, invitation]
+
+video:
+  canvas: "9:16"
+  resolution: "1080x1920"
+  caption_style: Devanagari-friendly, high contrast, calm pacing
+  rhythm_seconds: "3-5"
+  beat_sheet:
+    - { range: "0-3s", beat: hook_or_question }
+    - { range: "3-15s", beat: contemplation }
+    - { range: "15-40s", beat: meaning }
+    - { range: "final-5s", beat: soft_takeaway }
+
+publishing:
+  cadence:
+    # Start lighter than ASR LABS until buffer exists; scale later
+    videos_per_day: 1
+    timezone: Asia/Kolkata
+    slots:
+      - { time: "19:00", job: "Evening reflection", length_sec: "30-60" }
+  platforms:
+    youtube:
+      status: to_create
+      handle: null
+      formats: [shorts]
+    instagram:
+      status: live
+      handle: null  # confirm exact @handle in Meta settings
+      display_name: "MANTHAN 🪷"
+      formats: [reels, feed]
+      bio: |
+        धर्म • कर्म • आत्मबोध ✨
+        जीवन केवल पाने का नाम नहीं, स्वयं को पहचानने की यात्रा भी है।
+        जहाँ प्रेम हो, करुणा हो और हर हृदय में ईश्वर का एहसास।
+
+safeguards:
+  human_approval_required: true
+  respectful_of_faith_traditions: true
+  no_fear_or_guilt_marketing: true
+  no_medical_or_financial_claims: true

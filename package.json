@@ -1,0 +1,9 @@
+{
+  "name": "asr-labs-ai-studio",
+  "private": true,
+  "scripts": {
+    "backend": "cd backend && .venv/bin/uvicorn app.main:app --reload --host 0.0.0.0 --port 8000",
+    "frontend": "cd frontend && npm run dev",
+    "generate:calendar": "cd backend && .venv/bin/python -c \"from datetime import date; from app.services.asr_labs_planner import generate_asr_labs_calendar, calendar_to_markdown; from app.services.calendar_store import save_calendar; c=generate_asr_labs_calendar(start=date.today()); p=save_calendar(c); p.with_suffix('.md').write_text(calendar_to_markdown(c), encoding='utf-8'); print(p)\""
+  }
+}

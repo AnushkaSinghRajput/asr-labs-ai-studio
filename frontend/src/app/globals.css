@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --midnight-ink: #10101b;
+  --deep-violet: #6d4aff;
+  --electric-lavender: #9b7bff;
+  --signal-blue: #4c8dff;
+  --soft-gold: #d7b56d;
+  --cloud-white: #f7f6fb;
+}
+
+body {
+  color: var(--cloud-white);
+  background: var(--midnight-ink);
+  min-height: 100vh;
+}
+
+::selection {
+  background: color-mix(in srgb, var(--deep-violet) 55%, transparent);
+}
